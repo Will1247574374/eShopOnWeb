@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 505487cd-10d6-44dd-af92-81556dc0eb64
-  WEBAPP-NAME: eshoponweb-webapp51472365
+  WEBAPP-NAME: eshoponweb-webapp2136815
 
 
 jobs:
